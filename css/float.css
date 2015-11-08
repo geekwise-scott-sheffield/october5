@@ -1,0 +1,48 @@
+/**{*/
+/*    border: 2px solid black;*/
+/*}*/
+
+
+body{
+    height: 100vh;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+footer{
+    width: 100%;
+    text-align: center;
+    height: 50%;
+}
+
+#box_1
+#box_2
+#box_3{
+    
+}
+
+#box_1{
+    float: left;
+    height: 30%;
+    width: 33.3%;
+    background-color: red;
+    
+}
+
+#box_2{
+    float: left;
+    height: 30%;
+    width: 33.3%;
+    background-color: yellow;
+    
+}
+
+#box_3{
+    float: right;
+    height: 30%;
+    width: 33.3%;
+    background-color: blue;
+    
+}
+
